@@ -90,21 +90,7 @@ let min = 1;
 // }
 
 
-// 3-masala
 
-// let t = prompt("So'z kiriting");
-// const s = t.split(""); //bo'luvchi yaratib olamiz
-// t="" // gorizontal himoyachi, yani gorizontal ko'rinishdada t bo'sh bo'ladi
-// for(let i=0; i<s.length; i++){ //`i` `s` ning uzunligigacha ko'payadi 
-//     t = t+s[i]+'\n'; // t dagi s ga \n join bo'ladi va yangi har bir harf yangi satrdan boshlanadi 
-// }
-// alert(t);
-// console.log(t);
-
-// let p = prompt("So'z kiriting:");
-// t = p.split("").join("\n"); // bu shunchaki vergul o'rniga \n ni qo'yadi;
-// alert(t);
-// console.log(t);
 
 
 
